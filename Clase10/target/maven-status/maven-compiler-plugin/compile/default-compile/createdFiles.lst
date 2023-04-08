@@ -1,0 +1,8 @@
+com\mycompany\clase10\Materia.class
+com\mycompany\clase10\Inscripcion.class
+com\mycompany\file\CargarArchivo.class
+com\mycompany\clase10\Alumno.class
+com\mycompany\exception\AlumnoNoExisteException.class
+com\mycompany\clase10\Clase10.class
+com\mycompany\exception\ArchivoEducativoException.class
+com\mycompany\exception\MateriaNoExisteException.class
